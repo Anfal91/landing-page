@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/aaxd8q77ijgi/public_html/bangalore.fourcourseproperties.com/
+    - /bin/cp * $DEPLOYPATH
